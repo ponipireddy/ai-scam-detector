@@ -30,3 +30,6 @@ AI-assisted scam detection and psychological manipulation analysis.
 - Machine learning based scam detection
 - Screenshot and image scam analysis
 - Browser extension integration
+
+ ## Live Demo
+ https://studentscamdetector.lovable.app
